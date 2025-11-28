@@ -6,6 +6,6 @@ What I work on
 
 • 🔍 Product analysis & experiments: funnel breakdowns, activation tests, paywall experiments, subscription mechanics to improve conversion, retention and ARPU.
 
-• 🤖 AI Agents & automation: design and optimization of agents for fraud checks, content moderation and qualification flows, mostly built end-to-end with n8n and ElevenLabs.
+• 🤖 AI Agents & automation: design and optimization of agents for content moderation, fraud checks, and qualification flows, mostly built end-to-end with n8n and ElevenLabs.
 
-• 💰 Revenue optimization: checkout A/B tests, pricing framing, dynamic pricing systems to reduce freemium leakage and increase plan retention.
+• 💰 Revenue optimization: checkout A/B tests, pricing framing, dynamic pricing systems to reduce freemium leakage and increase paid subscription retention.
