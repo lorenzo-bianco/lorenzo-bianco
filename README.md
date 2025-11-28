@@ -1,6 +1,6 @@
 ## Hi, I’m Lorenzo 👋
 
-I'm a Product Manager in a real estate marketplace and my day-to-day is all about experiments, A/B tests, AI Agents and automations that improve revenue and core product metrics.
+I work as a Product Manager in a real estate marketplace and my day-to-day is all about experiments, A/B tests, AI Agents and automations that improve revenue and core product metrics.
 
 **What I work on**
 
